@@ -6,10 +6,11 @@
 ::-webkit-scrollbar{
     display: none;
 }
+
 body{
     color: yellow;
     background-color: darkcyan;
-    font-family: Roboto;
+    font-family: Times new Roman;
 }
 .showcase{
     width: 100vw;
